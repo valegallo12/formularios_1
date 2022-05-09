@@ -15,5 +15,6 @@ function ciclowhile(objeto)
 
     }
     document.formulario.respuesta.value = impar;
+   
     
 } 
